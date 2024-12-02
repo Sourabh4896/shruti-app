@@ -7,6 +7,7 @@ environment:
   sdk: ^3.5.4
 
 dependencies:
+  embedded_serialport: ^1.5.5
   flutter:
     sdk: flutter
   flutter_camera: ^1.0.0
